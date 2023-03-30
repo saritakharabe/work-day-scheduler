@@ -6,6 +6,8 @@
 
 a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
+### URL https://saritakharabe.github.io/work-day-scheduler/
+
 ## User Story
 
 - AS AN employee with a busy schedule
